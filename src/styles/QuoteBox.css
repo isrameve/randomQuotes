@@ -1,0 +1,15 @@
+.card {
+  background-color: blanchedalmond;
+  box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.507);
+  min-width: 100px;
+  width: 50%;
+  min-height: 100px;
+  height: 50%;
+  border-radius: 20px;
+  text-align: center;
+}
+.flex {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
